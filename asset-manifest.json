@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactdemos/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/reactdemos/static/js/main.f89abd57.chunk.js",
+    "main.js.map": "/reactdemos/static/js/main.f89abd57.chunk.js.map",
+    "runtime-main.js": "/reactdemos/static/js/runtime-main.99edb8d3.js",
+    "runtime-main.js.map": "/reactdemos/static/js/runtime-main.99edb8d3.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/reactdemos/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.cb7deb54.chunk.js": "/reactdemos/static/js/2.cb7deb54.chunk.js",
+    "static/js/2.cb7deb54.chunk.js.map": "/reactdemos/static/js/2.cb7deb54.chunk.js.map",
+    "static/js/3.4bf62a1f.chunk.js": "/reactdemos/static/js/3.4bf62a1f.chunk.js",
+    "static/js/3.4bf62a1f.chunk.js.map": "/reactdemos/static/js/3.4bf62a1f.chunk.js.map",
+    "index.html": "/reactdemos/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/reactdemos/static/css/2.13fd37b7.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/reactdemos/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.cb7deb54.chunk.js.LICENSE.txt": "/reactdemos/static/js/2.cb7deb54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99edb8d3.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.cb7deb54.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f89abd57.chunk.js"
+  ]
+}
